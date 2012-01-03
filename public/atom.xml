@@ -4,7 +4,7 @@
   <title><![CDATA[Driven To Develop]]></title>
   <link href="http://driventodevelop.com/atom.xml" rel="self"/>
   <link href="http://driventodevelop.com/"/>
-  <updated>2011-11-13T23:36:13-06:00</updated>
+  <updated>2012-01-03T17:36:28-06:00</updated>
   <id>http://driventodevelop.com/</id>
   <author>
     <name><![CDATA[David O'Hara]]></name>
@@ -12,5 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Clean Slate]]></title>
+    <link href="http://driventodevelop.com/blog/clean-slate/"/>
+    <updated>2012-01-01T14:21:00-06:00</updated>
+    <id>http://driventodevelop.com/blog/clean-slate</id>
+    <content type="html"><![CDATA[<p>It&#8217;s not you&#8230;it&#8217;s me. I have been meaning to do this for a long time and while I don&#8217;t think there is ever a <em>right</em> time for a break up like this, I think the time is now.</p>
+
+<h2>Calling It</h2>
+
+<p>There have a been a lot of changes in my life recently and I think that they are
+beginning to effect my perspective on life. Honestly, I sort of hope that they
+do. <span class='pullquote-right' data-pullquote='Life is short. So damn short, in fact, that it is not worth running thru if you&#8217;re not enjoying what little time we have on this rock.'>Life is short. So damn short, in fact, that it is not worth running thru if you&#8217;re not enjoying what little time we have on this rock.</span>
+  To that end, I am rebooting my blogging life. The old stuff will remain
+  <a href="http://blog.davidohara.net">here</a> but my new adventures and musings will be here. Maybe at
+  some point I&#8217;ll combine the two domains in some non-breaking way but right now I don&#8217;t want the hassle
+  so I&#8217;m declaring blog bankrupcy and just moving forward.</p>
+
+<h2>New Setup</h2>
+
+<p>Like so many others, I have decided to give <a href="http://octopress.org">Octopress</a>
+a shot. I won&#8217;t bother you will any details since so many others have done
+a great job of explaining how to get things up and going but I can say that so far I&#8217;ve been very impressed. Initially, my intention is to blog at least once a week and see where that takes me. They&#8217;re not going to be long posts (I&#8217;m hoping this will help me in my follow thru) and I hope that they&#8217;ll be more than semi-coherent ramblings. Guess we will have to see&#8230;</p>
+]]></content>
+  </entry>
   
 </feed>
