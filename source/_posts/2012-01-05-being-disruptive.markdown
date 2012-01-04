@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Being Disruptive"
-date: 2012-01-04 14:22
+date: 2012-01-05 09:08
 comments: true
 published: false
 categories: startup, thoughts, rant
