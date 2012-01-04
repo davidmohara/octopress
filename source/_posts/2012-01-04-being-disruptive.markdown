@@ -4,7 +4,7 @@ title: "Being Disruptive"
 date: 2012-01-04 14:22
 comments: true
 published: false
-categories: 
+categories: startup, thoughts, rant
 ---
 
 I've [tweeted](http://twitter.com/davidmohara/status/144168515207823361) before about this but felt, as is often the case, that it could be percieved as a bit
