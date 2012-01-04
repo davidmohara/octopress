@@ -15,7 +15,7 @@ do. {% pullquote %}{"Life is short. So damn short, in fact, that it is not worth
   To that end, I am rebooting my blogging life. The old stuff will remain 
   [here](http://blog.davidohara.net) but my new adventures and musings will be here. Maybe at
   some point I'll combine the two domains in some non-breaking way but right now I don't want the hassle
-  so I'm declaring blog bankrupcy and just moving forward.
+  so I'm declaring blog bankruptcy and just moving forward.
 
 ## New Setup
 Like so many others, I have decided to give [Octopress](http://octopress.org)
