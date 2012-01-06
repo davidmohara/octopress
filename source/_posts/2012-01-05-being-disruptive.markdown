@@ -26,8 +26,8 @@ rant.
 
 ## Labels
 Now to the main point of my tweet. The reason why I will stop listening when you
-use the term "disruptive" in your pitch is that {% pullquote %} {"disruptive
-can only be applied in hindsight"} {% endpullquote %}, thru the lens of
+use the term "disruptive" in your pitch is that disruptive
+can only be applied in hindsight, thru the lens of
 success. Twitter didn't set out to be disruptive, Amazon wasn't bankrolled
 because they were disruptive, they set out to solve a problem. That's
 what you need to focus on: solving someone's pain. If you can show me how you
