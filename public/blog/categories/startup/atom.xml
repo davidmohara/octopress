@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: thoughts, | Driven To Develop]]></title>
-  <link href="http://driventodevelop.com/blog/categories/thoughts-/atom.xml" rel="self"/>
+  <title><![CDATA[Category: startup | Driven To Develop]]></title>
+  <link href="http://driventodevelop.com/blog/categories/startup/atom.xml" rel="self"/>
   <link href="http://driventodevelop.com/"/>
-  <updated>2012-01-06T14:02:33-06:00</updated>
+  <updated>2012-01-06T14:04:47-06:00</updated>
   <id>http://driventodevelop.com/</id>
   <author>
     <name><![CDATA[David O'Hara]]></name>
