@@ -3,7 +3,7 @@ layout: post
 title: "Being Disruptive"
 date: 2012-01-05 09:08
 comments: true
-published: false
+published: true
 categories: [startup, thoughts, rant]
 ---
 
