@@ -1,2 +1,1 @@
-rvm 1.9.2
-rvm --create use default@dtd_blog > /dev/null
+rvm --create use 1.9.3@dtd_blog > /dev/null

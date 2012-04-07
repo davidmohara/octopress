@@ -7,7 +7,7 @@ categories: [apps, thoughts]
 ---
 
 We are regularly told that we should "think before we speak", however, I believe it
-to be equally important that we think before we act. {% pullquote %} {" Never be dictated to by expediency. "} {% endpullquote %} was a regular saying from my father.
+to be equally important that we think before we act. {% pullquote %} {" Never be dictated to by expediency. "} {% endpullquote %} was a regular saying from my father.
 And I have to say that, historically in my life at least, he's been correct. Now
 I know that we all end up in situations where we need to make snap decisions or
 something needs to be handled in the immediate - that's just life but there are
