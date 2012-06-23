@@ -4,7 +4,7 @@
   <title><![CDATA[Driven To Develop]]></title>
   <link href="http://driventodevelop.com/atom.xml" rel="self"/>
   <link href="http://driventodevelop.com/"/>
-  <updated>2012-04-09T08:54:06-05:00</updated>
+  <updated>2012-06-23T16:24:04-05:00</updated>
   <id>http://driventodevelop.com/</id>
   <author>
     <name><![CDATA[David O'Hara]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[I Don't Know]]></title>
+    <link href="http://driventodevelop.com/blog/i-dont-know/"/>
+    <updated>2012-06-23T16:00:00-05:00</updated>
+    <id>http://driventodevelop.com/blog/i-dont-know</id>
+    <content type="html"><![CDATA[<p>Saying &#8220;I don&#8217;t know&#8221; is hard. It&#8217;s an admission of a shortcoming, a lack. It says, &#8220;I lack knowledge&#8221; or &#8220;I lack understanding&#8221;.
+Not saying it is worse though. Making up some sort of answer says the same thing, shows the same lack, but it includes
+a lie; an inability to admit reality or be perceived as inadequate. News flash: we all are inadequate (on a way more frequent basis
+than we&#8217;d like to admit). The difference is you choose to ignore reality. A lack of knowledge is something that could possibly be
+remedied. But lying about realities, that&#8217;s intrinsic, something fundamental and not something that you can easily
+fix. Oh, and the person you&#8217;re talking to will know it - they just might be polite enough not to say anything. Do yourself a favor;
+just say &#8220;I don&#8217;t know&#8221; and we can both go from there.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Wear Your Career Uniform]]></title>
