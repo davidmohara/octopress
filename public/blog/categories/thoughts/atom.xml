@@ -4,7 +4,7 @@
   <title><![CDATA[Category: thoughts | Driven To Develop]]></title>
   <link href="http://driventodevelop.com/blog/categories/thoughts/atom.xml" rel="self"/>
   <link href="http://driventodevelop.com/"/>
-  <updated>2013-01-31T10:21:20-06:00</updated>
+  <updated>2013-02-15T08:17:22-06:00</updated>
   <id>http://driventodevelop.com/</id>
   <author>
     <name><![CDATA[David O'Hara]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Wisdom Not Just Knowledge]]></title>
+    <link href="http://driventodevelop.com/blog/wisdom-not-just-knowledge/"/>
+    <updated>2013-02-15T08:06:00-06:00</updated>
+    <id>http://driventodevelop.com/blog/wisdom-not-just-knowledge</id>
+    <content type="html"><![CDATA[<p>Sites like quora are time sinks for the virtual wisdom they provide. They're like brain candy. Don't get me wrong, I
+love candy too, but it's no substitute for a good meal. People are more interested in collecting knowledge and parading
+it around as wisdom rather than acting upon it to discover the true nature of that knowledge. Experience is the only
+true impartation of wisdom. Everything else is just academic.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Working Body Means A Free Mind]]></title>
@@ -86,43 +98,6 @@ Unfortunately, no one has every taught me what to actually do with that time.</p
 <h2>The Canvas</h2>
 
 <p>So if I'm supposed to be thoughtful about what it is I do in specific situations, how do I achieve that? Well, I don't know if it's the solution for everyone but I've got a template that works for me and I wanted to share with you all. You can find it at <a href="http://journal.driventodevelop.com">http://journal.driventodevelop.com</a>. It's a pretty simple and self-explanatory template (if you need a hint there's an instruction box in the top right that I'm working to make contextual help). I needed a quick way to throw some security on it so it uses Twitter for authentication but I assure you I'm not collecting any kind of info otherwise. In the past couple weeks, I have been surprised how much this has helped me with situations I was experiencing and brought things to a significantly better conclusion that I had hoped for at the outset. Give it a shot and let me know what you think...</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Being Disruptive]]></title>
-    <link href="http://driventodevelop.com/blog/being-disruptive/"/>
-    <updated>2012-01-05T09:08:00-06:00</updated>
-    <id>http://driventodevelop.com/blog/being-disruptive</id>
-    <content type="html"><![CDATA[<p>I've <a href="http://twitter.com/davidmohara/status/144168515207823361">tweeted</a> before about this but felt, as is often the case, that it could be percieved as a bit
-flippant with regards to how I feel about the startups I encounter. While those
-who know me will agree that I rarely take myself too seriously, I am serious
-about new ideas and how they could change things but I don't need you to tell me
-that. Let me back up a second...</p>
-
-<h2>Flys Buzz</h2>
-
-<p>"Startups don't buzz, flys do; and it's usually around horseshit" Far too often
-I have an idea pitched to me that is little more than a haphazard collection of
-buzzwords and acronyms. If your idea needs something like that to make it
-attractive, you need a new idea. <span class='pullquote-right' data-pullquote='Making it &#8220;social&#8221; or using gamification will only work if your idea doesn&#8217;t suck to begin with. '>Making it "social" or using gamification will only work if your idea doesn't suck to begin with.</span> Start there and <strong>then</strong> work
-your way into the other bits, not the other way around. That's the idea I want
-pitched to me. And don't tell me "I think" this or that, I can't measure "I
-think". Show me some sort of actual data - even if it's a SWAG it at least shows
-me you've thought things thru enough to put numbers around. Ok, enough of a side
-rant.</p>
-
-<h2>Labels</h2>
-
-<p>Now to the main point of my tweet. The reason why I will stop listening when you
-use the term "disruptive" in your pitch is that disruptive
-can only be applied in hindsight, thru the lens of
-success. Twitter didn't set out to be disruptive, Amazon wasn't bankrolled
-because they were disruptive, they set out to solve a problem. That's
-what you need to focus on: solving someone's pain. If you can show me how you
-deliver value in that direction (and how you intend to reach out to people with that pain), then I'm
-interested. So now, go sit down and rethink your elevator pitch without using
-a single buzzword - then give me a call cause I'd love to hear it...</p>
 ]]></content>
   </entry>
   
