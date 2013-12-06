@@ -4,7 +4,7 @@
   <title><![CDATA[Category: thoughts | Driven To Develop]]></title>
   <link href="http://driventodevelop.com/blog/categories/thoughts/atom.xml" rel="self"/>
   <link href="http://driventodevelop.com/"/>
-  <updated>2013-11-21T15:22:29-06:00</updated>
+  <updated>2013-12-05T19:39:49-06:00</updated>
   <id>http://driventodevelop.com/</id>
   <author>
     <name><![CDATA[David O'Hara]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Be Accessible]]></title>
+    <link href="http://driventodevelop.com/blog/be-accessible/"/>
+    <updated>2013-12-05T19:29:00-06:00</updated>
+    <id>http://driventodevelop.com/blog/be-accessible</id>
+    <content type="html"><![CDATA[<p><img class="left" src="/images/open-door.jpg">
+Have you ever heard of having an “open door” policy? More than likely. Have you ever found that to be a lie? Sadly, more
+than likely. Often times companies, or individuals, like to claim that they have this policy but aren’t truly interested
+in being accessible. They believe that given sufficient access, folks would consume all their time and no work would get
+done. Not me. <span class='pullquote-right' data-pullquote='I love to tell people that I’m always available.'> I love to tell people that I’m always available. </span> This breeds trust in
+the people that I give that information to; they know they can have access to me anytime they may need it. This doesn’t
+mean that I’ll drop everything to talk with them any time they ask but I will make room for them and allow them to help
+prioritize their needs in the queue that is my job. Also, that allows me to push the responsibility on to them and trust
+that they'll only contact me when needed and not for frivolous things. People don’t like to be a bother and aren’t
+looking to waste your time so I don't need to filter them thru anything to be sure they're not wasting time. They seem
+to do that on their own. Granted, there are always exceptions and some that are more likely to take advantage but those
+are edge cases. And we all know you do your best not to mandate to exceptions; just treat them as exceptions and deal
+with them.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Controlling Emotion and Mindset]]></title>
@@ -136,18 +157,6 @@ going to be when it comes time to update with new data. Strike #3.</p>
 becomes when folks just want a one off thing (until it isn't), for just a few people (until there's more), and won't
 need again (until they do). When you need something more, step up and move out of your comfort zone, find a tool that
 supports what you need and isn't a three strike offender.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Wisdom Not Just Knowledge]]></title>
-    <link href="http://driventodevelop.com/blog/wisdom-not-just-knowledge/"/>
-    <updated>2013-02-15T08:06:00-06:00</updated>
-    <id>http://driventodevelop.com/blog/wisdom-not-just-knowledge</id>
-    <content type="html"><![CDATA[<p>Sites like quora are time sinks for the virtual wisdom they provide. They're like brain candy. Don't get me wrong, I
-love candy too, but it's no substitute for a good meal. People are more interested in collecting knowledge and parading
-it around as wisdom rather than acting upon it to discover the true nature of that knowledge. Experience is the only
-true impartation of wisdom. Everything else is just academic.</p>
 ]]></content>
   </entry>
   
