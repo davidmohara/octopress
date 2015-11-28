@@ -1,124 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  
   <url>
     <loc>http://driventodevelop.com/blog/walk-the-walk-but-dont-talk/</loc>
     <lastmod>2014-03-18T12:28:00-05:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://driventodevelop.com/blog/be-accessible/</loc>
     <lastmod>2013-12-05T19:29:00-06:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://driventodevelop.com/blog/controlling-emotion-and-mindset/</loc>
     <lastmod>2013-11-21T11:07:00-06:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://driventodevelop.com/blog/always-more-efficient/</loc>
     <lastmod>2013-09-13T08:21:00-05:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://driventodevelop.com/blog/profits-for-good/</loc>
     <lastmod>2013-06-06T07:33:00-05:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://driventodevelop.com/blog/time-for-work/</loc>
     <lastmod>2013-05-09T07:39:00-05:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://driventodevelop.com/blog/excel-is-a-cul-de-sac/</loc>
     <lastmod>2013-02-28T08:20:00-06:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://driventodevelop.com/blog/wisdom-not-just-knowledge/</loc>
     <lastmod>2013-02-15T08:06:00-06:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://driventodevelop.com/blog/scrum-as-cake-analogy/</loc>
     <lastmod>2013-01-31T09:46:00-06:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://driventodevelop.com/blog/working-body-means-a-free-mind/</loc>
     <lastmod>2013-01-20T09:17:00-06:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://driventodevelop.com/blog/a-new-chapter/</loc>
     <lastmod>2012-12-27T18:01:00-06:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://driventodevelop.com/blog/i-dont-know/</loc>
     <lastmod>2012-06-23T16:00:00-05:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://driventodevelop.com/blog/wear-your-career-uniform/</loc>
     <lastmod>2012-04-09T08:16:00-05:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://driventodevelop.com/blog/thoughtful-actions/</loc>
     <lastmod>2012-01-19T18:42:00-06:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://driventodevelop.com/blog/being-disruptive/</loc>
     <lastmod>2012-01-05T09:08:00-06:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
   <url>
     <loc>http://driventodevelop.com/blog/clean-slate/</loc>
     <lastmod>2012-01-01T14:21:00-06:00</lastmod>
-    <priority>0.8</priority>
   </url>
-  
-  
   <url>
     <loc>http://driventodevelop.com/blog/archives/</loc>
-    <lastmod>2014-07-04T01:43:35-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url>
-  
   <url>
     <loc>http://driventodevelop.com/</loc>
-    <lastmod>2014-07-04T01:43:35-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
   </url>
-  
   <url>
     <loc>http://driventodevelop.com/about/</loc>
-    <lastmod>2014-07-04T01:43:35-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url>
-  
-  
+  <url>
+    <loc>http://driventodevelop.com/blog/categories/general/</loc>
+  </url>
+  <url>
+    <loc>http://driventodevelop.com/blog/categories/blogging/</loc>
+  </url>
+  <url>
+    <loc>http://driventodevelop.com/blog/categories/startup/</loc>
+  </url>
+  <url>
+    <loc>http://driventodevelop.com/blog/categories/thoughts/</loc>
+  </url>
+  <url>
+    <loc>http://driventodevelop.com/blog/categories/rant/</loc>
+  </url>
+  <url>
+    <loc>http://driventodevelop.com/blog/categories/apps/</loc>
+  </url>
+  <url>
+    <loc>http://driventodevelop.com/blog/categories/business/</loc>
+  </url>
+  <url>
+    <loc>http://driventodevelop.com/blog/categories/improving/</loc>
+  </url>
+  <url>
+    <loc>http://driventodevelop.com/blog/categories/life-hack/</loc>
+  </url>
+  <url>
+    <loc>http://driventodevelop.com/blog/categories/thoughts/</loc>
+  </url>
+  <url>
+    <loc>http://driventodevelop.com/blog/categories/scrum/</loc>
+  </url>
+  <url>
+    <loc>http://driventodevelop.com/blog/categories/agile/</loc>
+  </url>
+  <url>
+    <loc>http://driventodevelop.com/blog/categories/excel/</loc>
+  </url>
+  <url>
+    <loc>http://driventodevelop.com/blog/categories/family/</loc>
+  </url>
+  <url>
+    <loc>http://driventodevelop.com/blog/categories/leadership/</loc>
+  </url>
+  <url>
+    <loc>http://driventodevelop.com/posts/2/</loc>
+  </url>
 </urlset>
