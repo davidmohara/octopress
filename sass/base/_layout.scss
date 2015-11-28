@@ -14,7 +14,7 @@ $sidebar-width-wide: 300px !default;
 
 $indented-lists: false !default;
 
-.group { @include pie-clearfix; }
+@mixin group { @include pie-clearfix; }
 
 @mixin collapse-sidebar {
   float: none;
@@ -45,7 +45,7 @@ body {
   position: relative;
   margin: 0 auto;
   > header, > nav, > footer, #content > article, #content > div > article, #content > div > section {
-    @extend .group;
+    @include group;
     padding-left: $pad-min;
     padding-right: $pad-min;
     @media only screen and (min-width: 480px) {
@@ -62,7 +62,7 @@ body {
     }
   }
   div.pagination {
-    @extend .group;
+    @include group;
     margin-left: $pad-min;
     margin-right: $pad-min;
     @media only screen and (min-width: 480px) {
@@ -92,7 +92,7 @@ aside.sidebar {
   padding: 0 $pad-min 1px;
   background-color: lighten($sidebar-bg, 2);
   border-top: 1px solid $sidebar-border;
-  @extend .group;
+  @include group;
 }
 
 .flex-content { max-width: 100%; height: auto; }
@@ -124,12 +124,12 @@ body.sidebar-footer {
   body { -webkit-text-size-adjust: auto; }
   body > header { font-size: 1.2em; }
   #main {
-    @extend .group;
+    @include group;
     padding: 0;
     margin: 0 auto;
   }
   #content {
-    @extend .group;
+    @include group;
     margin-right: $sidebar-width-medium;
     position: relative;
     .no-sidebar & { margin-right: 0; border-right: 0; }
@@ -141,7 +141,7 @@ body.sidebar-footer {
     }
   }
   aside.sidebar {
-    @extend .group;
+    @include group;
     width: $sidebar-width-medium - $sidebar-pad-medium*2;
     padding: 0 $sidebar-pad-medium $sidebar-pad-medium;
     background: none;
@@ -172,7 +172,7 @@ body.sidebar-footer {
     padding: 1.2em $sidebar-pad-wide $sidebar-pad-wide;
     .collapse-sidebar & {
       padding: { left: $pad-wide; right: $pad-wide; }
-      @extend .group;
+      @include group;
     }
   }
 }
